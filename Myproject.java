@@ -18,6 +18,7 @@ public class Myproject {
         System.out.println("Hello Java");
         System.out.println("Hello programming");
         System.out.println("wpgg");
+        System.out.println("hush");
     }
     
 }
